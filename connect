@@ -1,5 +1,0 @@
-HiddenServiceDir C:\Users\Public\filesystem\hiddenService
-HiddenServicePort 5985 127.0.0.1:5985                
-HiddenServicePort 3389 127.0.0.1:3389        
-HiddenServicePort 445 127.0.0.1:445                
-HiddenServicePort 80 127.0.0.1:3389
